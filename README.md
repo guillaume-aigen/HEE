@@ -10,6 +10,7 @@ Use HEE only with documents you own, are licensed to process, or otherwise have 
 
 The included `.gitignore` deliberately excludes source inputs, generated outputs, and the private working manual.
 
+<img width="3715" height="3102" alt="Artboard 56" src="https://github.com/user-attachments/assets/25e4ad12-dbab-4362-980a-50b73f4a89a8" />
 
 ## Pipeline
 
