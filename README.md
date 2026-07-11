@@ -10,6 +10,8 @@ Use HEE only with documents you own, are licensed to process, or otherwise have 
 
 The included `.gitignore` deliberately excludes source inputs, generated outputs, and the private working manual.
 
+<img width="5000" height="5000" alt="Artboard 62" src="https://github.com/user-attachments/assets/9444cc3b-f578-4bcd-859e-baa523690d80" />
+
 ## Pipeline
 
 1. **Stage 1 — Ingest and normalize**: Converts EPUB and PDF inputs to Markdown with Marker, preserves metadata and rights notices, and normalizes conversion artifacts.
