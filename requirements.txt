@@ -1,0 +1,9 @@
+# Stage 1: document conversion
+marker-pdf
+
+# Stage 2: Markdown-aware chunking
+langchain-text-splitters
+
+# Stage 3: local LLM extraction and JSON recovery
+ollama
+json-repair

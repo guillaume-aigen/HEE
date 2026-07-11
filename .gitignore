@@ -1,0 +1,25 @@
+# Private source material and generated artifacts
+STAGE 1/input/
+STAGE 1/output/
+STAGE 1/temp_staging/
+STAGE 2/output/
+STAGE 3/output/
+STAGE 4/output/
+STAGE 5/*_Heuristics_Skill/
+Project Information/
+.review_docx/
+
+# Credentials and local environments
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
