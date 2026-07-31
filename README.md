@@ -12,6 +12,9 @@ The included `.gitignore` deliberately excludes source inputs, generated outputs
 
 <img width="1870" height="941" alt="Artboard 62" src="https://github.com/user-attachments/assets/36bfbb0f-5958-425e-8b35-d7af430cb3db" />
 
+<img width="1440" height="1450" alt="image-1785461219621" src="https://github.com/user-attachments/assets/1f3be642-f9fd-4dd3-8e30-3ea9dda38871" />
+
+
 ## Pipeline
 
 1. **Stage 1 — Ingest and normalize**: Converts EPUB and PDF inputs to Markdown with Marker, preserves metadata and rights notices, and normalizes conversion artifacts.
