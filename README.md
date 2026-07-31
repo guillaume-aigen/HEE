@@ -12,7 +12,7 @@ The included `.gitignore` deliberately excludes source inputs, generated outputs
 
 <img width="1870" height="941" alt="Artboard 62" src="https://github.com/user-attachments/assets/36bfbb0f-5958-425e-8b35-d7af430cb3db" />
 
-<img width="1440" height="1450" alt="image-1785461219621" src="https://github.com/user-attachments/assets/1f3be642-f9fd-4dd3-8e30-3ea9dda38871" />
+<img width="2550" height="1836" alt="image-1785467544980" src="https://github.com/user-attachments/assets/4a5081a5-fd93-47e4-b8d5-bf599301d656" />
 
 
 ## Pipeline
